@@ -1,6 +1,6 @@
 # ensias_room
 
-an application that allows users to exchange instant messages
+an application that allows users to exchange instant messages using flutter and firebase.
 
 ## Getting Started
 
