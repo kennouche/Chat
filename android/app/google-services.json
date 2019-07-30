@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "169471235313",
+    "firebase_url": "https://ensiasroom-e47e8.firebaseio.com",
+    "project_id": "ensiasroom-e47e8",
+    "storage_bucket": "ensiasroom-e47e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169471235313:android:c397c078a8cbcb37",
+        "android_client_info": {
+          "package_name": "com.app.toto.ensiasroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169471235313-d95jd59gj1fbl5d7e4kt5komktu5t5fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.toto.ensiasroom",
+            "certificate_hash": "7130558e47eec62ea2feddae502734ef0c39aef4"
+          }
+        },
+        {
+          "client_id": "169471235313-b07fi6gfduasq225vbruud2bkivdr4lp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.toto.ensiasroom",
+            "certificate_hash": "cfef120fbac3060225e59fadc1aaf96e51d2b91e"
+          }
+        },
+        {
+          "client_id": "169471235313-bhklj5th8m7oscrt091n191lpjpqj14h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbJBl-6ooEsTjNcTtmZe0XX_fpkHQmLlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169471235313-bhklj5th8m7oscrt091n191lpjpqj14h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
