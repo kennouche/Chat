@@ -1,6 +1,6 @@
 # ensias_room
 
-A new Flutter application.
+an application that allows users to exchange instant messages
 
 ## Getting Started
 
